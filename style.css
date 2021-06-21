@@ -1,0 +1,28 @@
+.sheet {
+    height: 100%;
+    background-color: bisque;
+    width: 30%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.container h2 {
+    padding-top: 10px;
+}
+
+.row {
+    padding-left: 1.5rem;
+}
+
+table {
+    margin-top: 3rem;
+}
+
+table th,
+td {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
